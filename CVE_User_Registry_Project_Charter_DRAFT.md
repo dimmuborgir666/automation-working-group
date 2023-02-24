@@ -1,6 +1,6 @@
 # Project Charter
 
-## Project Name:  CVE User Registry Requirements Elicitation
+## Project Name:  CVE User DNCTHD-23483 Requirements Elicitation
 
 ## Project Lead:  Kurt Seifried kseifried@cloudsecurityalliance.org
 
